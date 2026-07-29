@@ -1,0 +1,6 @@
+{
+  "name": "Western Save the Date",
+  "description": "A digital western-themed Save the Date invitation featuring GSAP animations, Lenis smooth scrolling, and an interactive heart petal reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

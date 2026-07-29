@@ -1,0 +1,257 @@
+{
+  "primaryColor": "#b58d55",
+  "brandName": "Wade & Autumn",
+  "hero": {
+    "names": ["Wade", "Autumn"],
+    "subtitle": "request the pleasure of your company",
+    "location": "Willow Creek Ranch • Bozeman, Montana"
+  },
+  "eventDetails": {
+    "tag": "Where & When",
+    "headline": "Celebration Details",
+    "cards": [
+      {
+        "id": 1,
+        "imageKey": "ranchFence",
+        "title": "Guest Arrival & Prelude",
+        "time": "3:30 PM",
+        "subtitle": "The Front Lawn",
+        "location": "Welcome Teas & Acoustic Prelude",
+        "borderColor": "rgba(235, 202, 192, 0.4)",
+        "gradient": "linear-gradient(145deg, #fdfbfa, #f4e7e6)"
+      },
+      {
+        "id": 2,
+        "imageKey": "wildflowers",
+        "title": "The Wedding Ceremony",
+        "time": "4:00 PM",
+        "subtitle": "Wildflower Meadow",
+        "location": "Exchange of Lifelong Vows",
+        "borderColor": "rgba(217, 154, 154, 0.4)",
+        "gradient": "linear-gradient(145deg, #fdfbfa, #eed4d0)"
+      },
+      {
+        "id": 3,
+        "imageKey": "ranchPortrait",
+        "title": "Cocktail Hour & Games",
+        "time": "4:45 PM",
+        "subtitle": "The Timber Porch",
+        "location": "Craft Spirits & Lawn Games",
+        "borderColor": "rgba(181, 141, 85, 0.3)",
+        "gradient": "linear-gradient(145deg, #fdfbfa, #f9efee)"
+      },
+      {
+        "id": 4,
+        "imageKey": "barnLights",
+        "title": "Dinner & Toasts",
+        "time": "6:00 PM",
+        "subtitle": "The Willow Barn",
+        "location": "Montana Feast & Speeches",
+        "borderColor": "rgba(235, 202, 192, 0.4)",
+        "gradient": "linear-gradient(145deg, #fdfbfa, #f4e7e6)"
+      },
+      {
+        "id": 5,
+        "imageKey": "map",
+        "title": "Dancing & Campfire",
+        "time": "8:00 PM",
+        "subtitle": "Under the Stars",
+        "location": "Live Country Band & S'mores",
+        "borderColor": "rgba(217, 154, 154, 0.4)",
+        "gradient": "linear-gradient(145deg, #fdfbfa, #eed4d0)"
+      }
+    ],
+    "mapImageKey": "map",
+    "mapAlt": "Map location of Willow Creek Ranch in Bozeman, Montana",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Willow+Creek+Ranch+Bozeman+Montana"
+  },
+  "story": {
+    "tag": "Postcard Album",
+    "headline": "Our Story",
+    "subtitle": "Select a postcard from our journey in Montana",
+    "chapters": [
+      {
+        "id": 1,
+        "year": "Autumn 2021",
+        "chapter": "Chapter I",
+        "title": "Bridger Canyon Hike",
+        "description": "Wade and Autumn first met on a crisp October trail in the Bridger Mountains, talking for hours around a campfire under the stars.",
+        "imageKey": "wildflowers",
+        "location": "Bridger Canyon, MT",
+        "postmarkDate": "OCT 2021",
+        "stampIcon": ""
+      },
+      {
+        "id": 2,
+        "year": "Spring 2023",
+        "chapter": "Chapter II",
+        "title": "Building Our Cabin",
+        "description": "Together, they restored a rustic timber cabin surrounded by aspen trees and adopted their spirited blue heeler, Copper.",
+        "imageKey": "ranchFence",
+        "location": "Bozeman, MT",
+        "postmarkDate": "MAY 2023",
+        "stampIcon": ""
+      },
+      {
+        "id": 3,
+        "year": "October 2025",
+        "chapter": "Chapter III",
+        "title": "Lone Mountain Summit",
+        "description": "Surrounded by golden larches at 11,000 feet, Wade asked Autumn to spend forever together on a clear autumn morning.",
+        "imageKey": "ranchPortrait",
+        "location": "Big Sky, MT",
+        "postmarkDate": "OCT 2025",
+        "stampIcon": ""
+      },
+      {
+        "id": 4,
+        "year": "October 2026",
+        "chapter": "Chapter IV",
+        "title": "Willow Creek Wedding",
+        "description": "Under the vast Montana sky, Wade and Autumn exchange vows surrounded by the people they cherish most.",
+        "imageKey": "barnLights",
+        "location": "Willow Creek, MT",
+        "postmarkDate": "OCT 2026",
+        "stampIcon": ""
+      }
+    ],
+    "footerNote": "We can’t wait to celebrate the next chapter with you."
+  },
+  "footer": {
+    "title": "Thank You for Celebrating With Us",
+    "description": "Your presence makes this celebration even more meaningful. We are grateful for every smile, story, and memory shared as we begin our life together.",
+    "subline": "forever western",
+    "names": "Wade & Autumn",
+    "dateLocation": "October 24, 2026 • Bozeman, Montana",
+    "creditText": "Crafted by",
+    "creditLink": "https://tekkzy.com",
+    "creditName": "tekkzy"
+  },
+  "countdown": {
+    "headline": "Until We Say “I Do”",
+    "date": "2026-10-24T16:00:00",
+    "location": "Willow Creek Ranch • Bozeman, MT"
+  },
+  "heartReveal": {
+    "tag": "The Heart of Our Celebration",
+    "headline": "Gathered in Love",
+    "note": "Tap the heart stage to watch rose petals bloom into our wedding date.",
+    "date": "October 24",
+    "year": "2026",
+    "ariaLabel": "Tap to animate real rose petals into a heart and reveal the date"
+  },
+  "schedule": {
+    "tag": "Day Of Events",
+    "headline": "Schedule of Celebrations",
+    "description": "Willow Creek Ranch • Saturday, October 24, 2026",
+    "viewControls": [
+      { "id": "3d-flip", "label": "3D Flip Cards" },
+      { "id": "3d-deck", "label": "3D Stage" },
+      { "id": "3d-ring", "label": "3D Orbit Ring" },
+      { "id": "ranch-map", "label": "Ranch Map" },
+      { "id": "time-slider", "label": "Time Scrubber" },
+      { "id": "passport", "label": "Passport" },
+      { "id": "classic-trail", "label": "Classic Trail" }
+    ],
+    "items": [
+      {
+        "id": "guest-arrival",
+        "time": "3:30 PM",
+        "title": "Guest Arrival & Prelude",
+        "location": "The Front Lawn",
+        "icon": "",
+        "tag": "Welcome",
+        "description": "Welcome iced teas, artisanal lemonade, and acoustic prelude music under the shade of mature cottonwoods.",
+        "highlights": ["Iced Tea & Lemonade Stand", "Acoustic Guitar", "Guest Book Sign-in"]
+      },
+      {
+        "id": "ceremony",
+        "time": "4:00 PM",
+        "title": "The Wedding Ceremony",
+        "location": "Wildflower Meadow",
+        "icon": "",
+        "tag": "Ceremony",
+        "description": "Autumn & Wade exchange lifelong vows with sweeping 360-degree views of the Bridger Mountain Range.",
+        "highlights": ["Ring Exchange", "Mountain Backdrop", "Rose Petal Toss"]
+      },
+      {
+        "id": "cocktail-hour",
+        "time": "4:45 PM",
+        "title": "Cocktail Hour & Lawn Games",
+        "location": "The Timber Porch",
+        "icon": "",
+        "tag": "Social",
+        "description": "Artisanal Montana craft spirits, local hors d'oeuvres, cornhole, and live acoustic music as dusk begins.",
+        "highlights": ["Huckleberry Craft Cocktails", "Savory Bites", "Lawn Games"]
+      },
+      {
+        "id": "grand-entrance-dinner",
+        "time": "6:00 PM",
+        "title": "Dinner & Toasts",
+        "location": "The Willow Barn",
+        "icon": "",
+        "tag": "Feast",
+        "description": "Farm-to-table western feast, heart-warming family toasts, and cake cutting under vintage timber chandeliers.",
+        "highlights": ["Montana Beef Tenderloin", "Family Speeches", "Artisan Wedding Cake"]
+      },
+      {
+        "id": "dancing-celebration",
+        "time": "8:00 PM",
+        "title": "Dancing & Campfire Party",
+        "location": "Under the Stars",
+        "icon": "",
+        "tag": "Party",
+        "description": "Live country band, dancing on the open cedar deck, s'mores around the campfire, and sparkler sendoff.",
+        "highlights": ["Live Country Band", "Campfire S'mores", "Sparkler Farewell"]
+      }
+    ],
+    "mapLabels": {
+      "topLeft": "Bridger Mountain Valley Range",
+      "bottomRight": "Willow Creek River Bend"
+    },
+    "note": "Swipe left/right or click cards to focus • Event {index} of {total}"
+  },
+  "gallery": {
+    "tag": "Gallery",
+    "headline": "Portraits from Our Journey",
+    "description": "Captured moments from across our Montana wedding adventure.",
+    "images": [
+      {
+        "id": 1,
+        "imageKey": "ranchPortrait",
+        "alt": "Bride & Groom at Willow Creek Ranch",
+        "caption": "Sunset at Willow Creek Ranch",
+        "location": "Bozeman, Montana",
+        "aspect": "aspect-[3/4]",
+        "tilt": "-rotate-2"
+      },
+      {
+        "id": 2,
+        "imageKey": "wildflowers",
+        "alt": "Couple in Montana Wildflower Meadow",
+        "caption": "Prairie Wildflower Stroll",
+        "location": "Wildflower Meadow",
+        "aspect": "aspect-[4/5]",
+        "tilt": "rotate-2"
+      },
+      {
+        "id": 3,
+        "imageKey": "barnLights",
+        "alt": "Couple outside timber barn with string lights",
+        "caption": "Dusk under the Barn Lights",
+        "location": "Willow Barn",
+        "aspect": "aspect-[4/3]",
+        "tilt": "-rotate-1"
+      },
+      {
+        "id": 4,
+        "imageKey": "ranchFence",
+        "alt": "Couple at ranch split rail fence",
+        "caption": "Montana Horizon",
+        "location": "Split Rail Fence",
+        "aspect": "aspect-[3/4]",
+        "tilt": "rotate-3"
+      }
+    ]
+  }
+}
