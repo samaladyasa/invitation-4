@@ -43,7 +43,7 @@ export function FooterSection() {
       <div className="absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-[#fff9f4] to-transparent pointer-events-none" />
       <FireworksBackground population={8} color="multi" className="absolute inset-0 pointer-events-none z-0 opacity-35" />
 
-      <div ref={contentRef} className="relative z-20 -mt-12 md:-mt-16 max-w-2xl mx-auto flex flex-col items-center gap-7 sm:gap-10">
+      <div ref={contentRef} className="relative z-20 mt-8 max-w-2xl mx-auto flex flex-col items-center gap-7 sm:gap-10">
         <div className="space-y-3 px-4 sm:px-0">
           <h3 className="text-3xl md:text-4xl font-serif-display text-[#24160f] font-semibold tracking-tight">
             {footer.title}
@@ -51,12 +51,6 @@ export function FooterSection() {
           <p className="font-serif-italic text-base md:text-lg text-[#3e2d24] leading-relaxed font-semibold max-w-xl mx-auto">
             {footer.description}
           </p>
-        </div>
-
-        <div className="flex items-center gap-3">
-          <span className="text-xs uppercase tracking-[0.35em] text-[#523a2f] font-semibold">
-            {footer.subline}
-          </span>
         </div>
 
         <div className="space-y-1">
