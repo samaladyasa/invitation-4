@@ -44,12 +44,6 @@ export function FooterSection() {
       <FireworksBackground population={8} color="multi" className="absolute inset-0 pointer-events-none z-0 opacity-35" />
 
       <div ref={contentRef} className="relative z-20 -mt-12 md:-mt-16 max-w-2xl mx-auto flex flex-col items-center gap-7 sm:gap-10">
-        <div className="w-20 h-20 rounded-full bg-[#fffdfa] border-4 border-[#b58d55]/40 flex items-center justify-center shadow-[0_18px_45px_-24px_rgba(181,141,85,0.95)]">
-          <span className="font-serif-display text-2xl md:text-3xl text-[#2d2218] tracking-[0.28em] font-normal">
-            W&A
-          </span>
-        </div>
-
         <div className="space-y-3 px-4 sm:px-0">
           <h3 className="text-3xl md:text-4xl font-serif-display text-[#24160f] font-semibold tracking-tight">
             {footer.title}
@@ -57,6 +51,12 @@ export function FooterSection() {
           <p className="font-serif-italic text-base md:text-lg text-[#3e2d24] leading-relaxed font-semibold max-w-xl mx-auto">
             {footer.description}
           </p>
+        </div>
+
+        <div className="flex items-center gap-3">
+          <span className="text-xs uppercase tracking-[0.35em] text-[#523a2f] font-semibold">
+            {footer.subline}
+          </span>
         </div>
 
         <div className="space-y-1">
